@@ -1,5 +1,7 @@
 <template>
+
   <div class="flex h-screen container mx-auto relative">
+    <!-- left nav -->
     <div class="w-20  xl:w-1/6 pt-5 flex flex-col border-r border-gray-100 xl:ml-10">
       <div class="flex flex-col items-center xl:items-start">
         <!--logo -->
